@@ -16,3 +16,5 @@ if __name__ == '__main__':
     # torch.cuda.set_device(dist.get_rank())
     model = MODEL(opt)
     model.fit()
+
+# Comment placed as test Commit.
